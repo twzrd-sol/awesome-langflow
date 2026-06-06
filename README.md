@@ -112,6 +112,8 @@ Langflow connects to a wide array of LLMs, vector databases, and data sources.
 -   **Wikipedia**: A tool for agents to query and retrieve information directly from Wikipedia articles. [https://docs.langflow.org/bundles-wikipedia](https://docs.langflow.org/bundles-wikipedia)
 -   **Bing Search**: Provide agents with real-time web search capabilities using the Bing Search API. [https://docs.langflow.org/bundles-bing](https://docs.langflow.org/bundles-bing)
 
+-   **TWZRD Agent Intel**: Trust scoring and x402 payment verification MCP server for AI agents on Solana. Provides on-chain reputation scores and HTTP 402 receipt verification for agent workflows. [https://intel.twzrd.xyz](https://intel.twzrd.xyz)
+
 ## Observability & Evaluation
 Integrate these tools to trace, monitor, and evaluate your Langflow applications.
 
